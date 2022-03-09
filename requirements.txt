@@ -1,0 +1,17 @@
+psycopg2-binary
+sqlalchemy
+requests
+gtfs-realtime-bindings
+geopy
+shapely
+geoalchemy2
+psycopg2-binary
+sqlalchemy
+requests
+gtfs-realtime-bindings
+geopy
+shapely
+redis
+rq
+pytz
+huey 
